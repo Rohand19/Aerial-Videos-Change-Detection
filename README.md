@@ -7,10 +7,6 @@
 
 A deep learning-based application for detecting and visualizing changes between video frames captured at different times. This project uses a custom GAN architecture enhanced with Convolutional Block Attention Module (CBAM) to highlight changes between "before" and "after" videos.
 
-<p align="center">
-  <img src="https://i.imgur.com/LpGW1s3.png" alt="Video Change Detection" width="80%">
-</p>
-
 ## 🌟 Features
 
 - **Interactive Web Interface**: User-friendly Streamlit application for uploading and processing videos
